@@ -18,4 +18,4 @@ Currently, I'm pursuing my postgraduate studies in **Artificial Intelligence** i
 🌍 **Open to collaborations** on projects in Data Science, Machine Learning, and AI.  
 ✨ Let's innovate together! 🚀  
 
-📫 **Let's connect**: Feel free to reach out to me on [[LinkedIn](https://www.linkedin.com/in/arshia-pelathur/)](#). Always happy to connect and discuss more AI!!
+📫 **Let's connect**: Feel free to reach out to me on [(https://www.linkedin.com/in/arshia-pelathur/)](#). Always happy to connect and discuss more AI!!
